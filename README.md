@@ -1,2 +1,2 @@
-# mosh
-Coding With Mosh - Learning to use Github.
+## Mosh
+__Coding With Mosh__ - Learning to use Github.
